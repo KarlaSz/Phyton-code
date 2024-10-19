@@ -30,7 +30,6 @@ print('Więc mówisz że masz',x,'zwierzat')
 #print('Więc mówisz że masz',x,'zwierzat\t') tabulator
 
 
-----
 # Online Python compiler (interpreter) to run Python online.
 # Write Python 3 code in this online editor and run it.
 print("siema1")
