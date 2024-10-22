@@ -24,6 +24,7 @@ def prognoza(wiek, plec, zdrowie):
 #dane = input('Wprowadz wiek, plec, stan zdrowia ').split()
 #print(prognoza(int(dane[0]), dane[1], int(dane[2])))
 
+#dodatek
 #podejsice iteracyjne
 def silnia1(n):
     wynik = 1
